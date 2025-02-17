@@ -1,1 +1,4 @@
-# praticaSQL
+# SELECT * FROM Customers;
+# 
+# 
+# 
