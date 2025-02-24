@@ -1,11 +1,13 @@
 # Introduction to SQL
-## SELECT * FROM Customers;
-## SELECT CustomerName,City FROM Customers;
+## SELECT
+SELECT * FROM Customers;
+## SELECT
+SELECT CustomerName,City FROM Customers;
 ## SELECT * FROM Customers
 WHERE Country='Mexico';
 ## SELECT * FROM Products
 ORDER BY Price;
-##SELECT * FROM Customers
+## SELECT * FROM Customers
 WHERE Country = 'Spain' AND CustomerName LIKE 'G%';
 ## SELECT * FROM Customers
 WHERE Country = 'Germany' OR Country = 'Spain';
